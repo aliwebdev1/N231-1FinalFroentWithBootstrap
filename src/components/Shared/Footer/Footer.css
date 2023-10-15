@@ -1,0 +1,27 @@
+footer {
+    background-image: url(../../../assets/images/footer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+footer h5 {
+    color: #939393;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 114.682%;
+}
+
+.row li {
+    list-style: none;
+    color: #3A4256;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 114.682%;
+    margin-bottom: 15px;
+}

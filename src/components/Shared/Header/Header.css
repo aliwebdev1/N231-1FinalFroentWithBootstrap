@@ -1,0 +1,17 @@
+.nav-item a {
+    color: #000;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 21px 15px;
+    text-decoration: none;
+}
+
+.nav-item .active {
+    border-radius: 8px;
+    background: #3A4256;
+    padding: 11px 13px;
+    color: white !important;
+}

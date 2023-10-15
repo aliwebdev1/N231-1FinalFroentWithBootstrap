@@ -1,0 +1,70 @@
+.singup {
+    margin: 120px 0px 50px 0;
+}
+
+.form-parent {
+    width: 385px;
+    border-radius: 18px;
+    background: #FFF;
+    box-shadow: 3px 4px 10px 2px rgba(0, 0, 0, 0.05);
+    padding: 30px;
+}
+
+.form-parent h4 {
+    color: #000;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+form input {
+    border-radius: 8px;
+    border: 1px solid #CFCFCF;
+}
+
+.signup-button {
+    border-radius: 8px;
+    background: #3A4256;
+    color: #D4D9E3;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 327px;
+    height: 48px;
+    border: 2px solid #3A4256;
+    transition: all 0.3s linear;
+}
+
+.signup-button:hover {
+    border: 2px solid #3A4256;
+    background: #3a425600;
+
+}
+
+.google-button {
+    color: #3A4256;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 327px;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid #3A4256;
+    border-radius: 18px;
+    background: #FFF;
+    box-shadow: 3px 4px 10px 2px rgba(0, 0, 0, 0.05);
+}
+
+span {
+    width: 131px;
+    height: 1px;
+    background: #CFCFCF;
+    display: inline-block;
+    margin: 20px;
+}

@@ -1,0 +1,13 @@
+.testmonial {
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
+
+.reviews {
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+    border: 3px solid #19D3AE;
+    padding: 3px;
+}
